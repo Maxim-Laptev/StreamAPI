@@ -9,7 +9,7 @@
 
 *private String name*;
 
-*private **Optional<address>** address*;
+*private **Optional<<address>>** address*;
 
 Создаем два конструктора, 1 - с именем и адресом, 2 - с именем, создаем методы для возвращения полей.
 Создаем класс Main, создаем HashMap, в котором мы создадим студентов, затем создаем метод printStudentInfo() для вывода в консоль студентов и вспомогательные методы для printStudentInfo(). 
